@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reasm-backend"
+version = "1.0.0"
+description = "REASM - Resume Extraction & Skill Matcher API"
+requires-python = ">=3.9"
